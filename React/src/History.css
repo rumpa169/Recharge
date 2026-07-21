@@ -1,3 +1,11 @@
+.history-container{
+transform: scaleY(0.85);
+transform-origin: top center;
+
+
+}
+
+
 .history-title{
 font-size: 35px;
 font-weight: bold;
