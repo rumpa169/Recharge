@@ -1,7 +1,7 @@
 .profile{
 font-size: 21px;
 font-weight: 700;
-color: black;
+color: white;
 margin-top: 20px;
 margin-right: 300px;
 }
@@ -10,8 +10,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 flex-direction: column;
-width: 375px;
-height: 812px;
+
 }
 
 .Customer_image{
@@ -76,7 +75,7 @@ margin-right: 30px;
 
 .Outer-Profile{
 width: 375px;
-height: 800px;
+height: 600px;
 background-color: rgb(12, 4, 59);
 border-radius: 25px 25px 0px 0px;
 margin-top: 20px;
@@ -240,7 +239,7 @@ margin: 40px auto 0;
 border-radius: 24px;
 border: 1px solid gray;
 background-color: rgb(2, 2, 48);
-margin-top: 150px;
+margin-top: 40px;
 padding: 5px 20px 5px 20px; 
 box-sizing: border-box;
 display: flex;

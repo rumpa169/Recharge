@@ -1,9 +1,9 @@
-.profile_container{
+.profile_containerupdate_{
 display: flex;
 align-items: left;
 gap: 12px;
-width: 375px;
-height: 812px;
+
+
 }
 .profile-arrow{
 width: 16px;
