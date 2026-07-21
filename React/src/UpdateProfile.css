@@ -1,0 +1,186 @@
+.update_profile_container{
+display: flex;
+align-items: left;
+gap: 12px;
+
+
+}
+.profile-arrow{
+width: 16px;
+height: 16px;
+margin-right: 300px;
+padding: 20px 20px;
+}
+
+
+
+.jhone-profile{
+width: 80px;
+height: 80px;
+align-items: center;
+border: 1px solid white;
+border-radius: 100%;
+background-color: orange;
+margin-top: 20px;
+}  
+
+.customer_input{
+width: 320px;
+height: 48px;
+border: 1px solid gray;
+margin-left: 26px;
+background-color: white;
+padding: 0px 12px;
+align-items: center;
+margin-top: 5px;
+border-radius: 8px;
+display: flex;
+align-items: center;
+box-sizing: border-box;
+
+}
+
+.jhone{
+font-size: 21px;
+color: black;
+font-weight: 700;
+margin-top: -45px;
+display: flex;
+margin-left: 50px;
+}
+
+.customer{
+font-size: 16px;
+font-weight: 400;
+color: black;
+margin-bottom: 5px;
+width: 100%;
+text-align: left;
+margin-left: 30px;
+}
+
+
+.customer_name1{
+font-size: 13px;
+font-weight: 300;
+color: black;
+background-color: transparent;
+border: none;
+outline: none;
+text-align: left;
+padding: 0;
+flex: 1;
+margin-right: 85px;
+}
+.user{
+width: 24px;
+height: 24px;
+
+}
+
+
+.customer_email_input{
+width: 320px;
+height: 48px;
+border-radius: 8px;
+border: 1px solid gray;
+justify-content: center;
+align-items: center;
+background-color: white;
+display: flex;
+align-items: center;
+margin-left: 26px;
+margin-top: 3px;
+}
+
+.customer_email{
+font-size: 16px;
+font-weight: 400;
+color: black;
+margin-bottom: 5px;
+width: 100%;
+text-align: left;
+margin-left: 30px;
+margin-top: 12px;
+}
+
+.customer-email{
+width: 24px;
+height: 24px;
+margin-left: 12px;
+}
+
+.enter-email1{
+font-size: 13px;
+font-weight: 300;
+color: black;
+background-color: transparent;
+border: none;
+outline: none;
+text-align: left;
+padding: 0;
+flex: 1;
+margin-left: 5px;
+}
+
+
+
+
+
+
+.customer_phone_input{
+width: 320px;
+height: 48px;
+border-radius: 8px;
+border: 1px solid gray;
+justify-content: center;
+align-items: center;
+background-color: white;
+display: flex;
+align-items: center;
+margin-left: 26px;
+margin-top: 3px;
+}
+
+.customer_phone{
+font-size: 16px;
+font-weight: 400;
+color: black;
+margin-bottom: 5px;
+width: 100%;
+text-align: left;
+margin-left: 30px;
+margin-top: 12px;
+}
+
+.customer-phone{
+width: 24px;
+height: 24px;
+margin-left: 12px;
+}
+
+.enter-phone-number{
+font-size: 13px;
+font-weight: 300;
+color: black;
+background-color: transparent;
+border: none;
+outline: none;
+text-align: left;
+padding: 0;
+flex: 1;
+margin-left: 5px;
+}
+
+
+.continue_btn{
+width: 240px;
+height: 48px;
+color: white;
+border-radius: 12px;
+background-color: rgb(3, 3, 77);
+font-size: 16px;
+font-weight: 500;
+border: 1px solid gray;
+margin-top: 100px;
+}

@@ -1,0 +1,301 @@
+.profile{
+font-size: 21px;
+font-weight: 700;
+color: white;
+margin-top: 20px;
+margin-right: 300px;
+}
+.profile-container{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.Customer_image{
+width: 80px;
+height: 80px;
+color: white;
+border-radius: 100%;
+background-color: rgb(61, 1, 19);
+margin-bottom: 8px;
+display: flex;
+
+}
+.Name{
+font-size: 16px;
+font-weight: 700;
+text-align: center;
+margin-left: 10px;
+color: black;
+}
+
+.customer_number{
+margin-top: 5px;
+text-align: center;
+justify-content: space-between;
+display: flex;
+margin-right: 30px;
+}
+
+.number-label{
+font-size: 13px;
+font-weight: 300;
+margin-right: 10px;
+color: black;
+}
+
+.jhone_value1{
+font-size: 13px;
+font-weight: 300;
+color: black;
+margin-left: 20px;
+
+}
+
+
+
+.jhone_value{
+font-size: 13px;
+font-weight: 300;
+margin-left: -60px;
+color: black;
+
+}
+
+.Email_id{
+margin-top: 5px;
+text-align: center;
+justify-content: space-between;
+display: flex;
+margin-right: 30px;
+
+}
+
+.Outer-Profile{
+width: 375px;
+height: 600px;
+background-color: rgb(12, 4, 59);
+border-radius: 25px 25px 0px 0px;
+margin-top: 20px;
+
+}
+
+.outer-upadte-profile{
+width: 320px;
+height: 36px;
+border-radius: 8px;
+border: 1px solid gray;
+background-color: rgb(3, 83, 7);
+margin-top: 40px;
+display: flex;
+align-items: center;
+padding: 2px 12px;
+white-space: nowrap;
+box-shadow: 2px;
+margin-left: 14px;
+}
+
+.update_profile{
+font-size: 13px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: 500;
+color: white;
+letter-spacing: 1px;
+white-space: nowrap;
+margin-left: 8px;
+
+}
+
+.arrow-icon{
+width: 16px;
+height: 16px;
+margin-left: auto;
+}
+.profile1-icon{
+width: 24px;
+height: 24px;
+margin: 0;
+}
+
+.outer-change-password{
+width: 320px;
+height: 36px;
+border-radius: 8px;
+border: 1px solid gray;
+background-color: rgb(3, 83, 7);
+margin-top: 20px;
+display: flex;
+align-items: center;
+padding: 2px 12px;
+white-space: nowrap;
+box-shadow: 2px;
+margin-left: 14px;
+}
+.Change-Password{
+font-size: 13px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: 500;
+color: white;
+letter-spacing: 1px;
+white-space: nowrap;
+margin-left: 8px;
+}
+
+.password1-icon{
+width: 24px;
+height: 24px;
+margin: 0;
+
+}
+
+
+.arrow1-icon{
+width: 16px;
+height: 16px;
+margin-left: auto;
+}
+
+.outer-terms-condition{
+width: 320px;
+height: 36px;
+padding: 2px 12px;
+border: 1px solid gray;
+border-radius: 8px;
+margin-top: 20px;
+background-color: rgb(3, 83, 7);
+display: flex;
+align-items: center;
+white-space: nowrap;
+box-shadow: 2px;
+margin-left: 14px;
+}
+
+.terms_condition{
+font-size: 13px;
+font-weight: 500;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+margin-left: 8px;
+letter-spacing: 1px;
+}
+
+.terms-conditions{
+width: 24px;
+height: 24px;
+margin: 0;
+}
+
+.arrow2-icon{
+width: 16px;
+height: 16px;
+margin-left: auto;
+}
+
+
+
+.logout-button{
+display: flex;    
+width: 200px;
+height: 42px;
+background-color: rgb(158, 6, 6);
+border-radius: 12px;
+margin-top: 100px;
+font-size: 21px;
+font-weight: 500;
+justify-content: center;
+align-items: center;
+margin-left: 80px;
+color: white;
+gap: 8px;
+}
+
+.logout-icon{
+width: 24px;
+height: 24px;
+align-items: center;
+
+}
+
+
+.jhone_email{
+font-size: 13px;
+font-weight: 300;
+color: black;
+margin-right: 180px;
+margin-right: 140px;
+}
+
+
+
+
+
+.outer-menu1{
+width: 100%;
+height: 56px;
+max-width: 340px;
+margin: 40px auto 0;
+border-radius: 24px;
+border: 1px solid gray;
+background-color: rgb(2, 2, 48);
+margin-top: 150px;
+padding: 5px 20px 5px 20px; 
+box-sizing: border-box;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-left: 15px;
+}
+
+.menu-bar1{
+display: flex;
+flex-direction: column;
+justify-content: center;
+cursor: pointer;
+flex-direction: column;
+}
+
+.menu-icons41{
+width: 20px;
+height: 20px;
+align-items: center;
+margin-left: 3px;
+margin-bottom: -2px;
+}
+.menu-icons51{
+width: 20px;
+height: 20px;
+align-items: center;
+margin-left: 5px;
+margin-bottom: -2px;
+}
+
+.menu-icons61{
+width: 20px;
+height: 20px;
+align-items: center;
+margin-left: 5px;
+margin-bottom: -2px;
+}
+
+
+
+.menu-bar-text1{
+font-size: 13px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+margin-top: 2px;
+margin-left: 0;
+text-align: center;
+margin-left: -5px;
+}
+.active-text1{
+color: green;
+font-weight: bold;
+}
+
+
+
+
+
