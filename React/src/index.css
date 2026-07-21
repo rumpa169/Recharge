@@ -109,3 +109,19 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+
+
+body {
+  background-color: #f0f2f5;
+}
+
+
+
+#root {
+  max-width: 430px;      
+  margin: 0 auto;           
+  min-height: 100vh;       
+  background-color: #ffffff; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+}
