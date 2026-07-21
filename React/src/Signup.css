@@ -108,7 +108,7 @@ font-size: 16px;
 .icons-container{
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 5px;
   justify-content: center;
 }
 .input-group {
@@ -124,4 +124,10 @@ font-size: 16px;
   font-weight: 600;
   text-align: right;
   padding-right: 20px;
+}
+
+.signup-or{
+font-size: 13px;
+font-weight: medium;
+margin-top: 3px;
 }

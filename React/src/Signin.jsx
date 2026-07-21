@@ -73,10 +73,10 @@ onChange={(e)=> setPassword(e.target.value)}
 </div>
 <div className="diviber">
 <span className="line"></span>
-<p>Or</p>
+<p className="or">Or</p>
 <span className="line"></span>
 </div>
-<div className="icon-container">
+<div className="icon-container1">
 <img src="/image/google1.png" 
 alt="google"   
 className="icon"/>

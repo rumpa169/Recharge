@@ -94,7 +94,7 @@ Already have an account? <span className="signin-link" onClick={()=> navigate("/
 
 <div className="diviber">
  <span className="line"></span> 
- <p>Or</p>
+ <p className="signup-or">Or</p>
  <span className="line"></span>
 </div>
 {/* icons */}

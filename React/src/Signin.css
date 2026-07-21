@@ -99,10 +99,10 @@ gap: 2px;
   padding: 20px;
   margin-top: 20px;
 }
-.icon-container{
+.icon-container1{
     display: flex;
     flex-direction: row;
-   gap: 1px;
+    gap: 5px;
     justify-content: center;
 }
 .p{
@@ -120,5 +120,11 @@ width: 24px;
 height: 24px;
 color: black;
 align-items: left;
+
+}
+.or{
+font-size: 13px;
+font-weight: medium;
+margin-top: 3px;
 
 }
