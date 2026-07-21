@@ -1,7 +1,6 @@
 .history-container{
-transform: scaleY(0.85);
-transform-origin: top center;
-
+width: 375px;
+height: 600px;
 
 }
 
