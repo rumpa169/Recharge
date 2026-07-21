@@ -41,7 +41,7 @@ margin-right: 30px;
 
 .number-label{
 font-size: 13px;
-font-weight: 300;
+font-weight: bold;
 margin-right: 10px;
 color: black;
 }
@@ -221,7 +221,7 @@ align-items: center;
 
 .jhone_email{
 font-size: 13px;
-font-weight: 300;
+font-weight: bold;
 color: black;
 margin-right: 180px;
 margin-right: 140px;
